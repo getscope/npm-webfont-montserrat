@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'Montserrat';
+  src: local('Montserrat Light'), local('Montserrat-Light'),
+  url('../../fonts/montserrat-300-normal.woff2') format('woff2'),
+  url('../../fonts/montserrat-300-normal.woff') format('woff'),
+  url('../../fonts/montserrat-300-normal.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}

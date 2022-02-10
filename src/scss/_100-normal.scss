@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'Montserrat';
+  src: local('Montserrat Hairline'), local('Montserrat-Hairline'),
+  url('../../fonts/montserrat-100-normal.woff2') format('woff2'),
+  url('../../fonts/montserrat-100-normal.woff') format('woff'),
+  url('../../fonts/montserrat-100-normal.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
